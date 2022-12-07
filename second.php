@@ -1,2 +1,2 @@
-<p>Second file changes</p>
+<div>Second file changes</div>
 No
