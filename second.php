@@ -1,2 +1,2 @@
-Second file changes
+<p>Second file changes</p>
 No
